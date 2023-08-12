@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.icbc.mobile.abroadARG.dev",
+      "sha256_cert_fingerprints":
+      ["28:29:E5:7E:8C:AD:E1:56:42:A1:FE:B5:49:21:55:A2:21:5A:31:59:3D:B5:4F:20:D7:09:6D:59:66:4E:1C:07"]
+    }
+  }]
