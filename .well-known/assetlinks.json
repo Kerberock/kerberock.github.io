@@ -1,9 +1,9 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.icbc.mobile.abroadARG.dev",
-      "sha256_cert_fingerprints":
-      ["28:29:E5:7E:8C:AD:E1:56:42:A1:FE:B5:49:21:55:A2:21:5A:31:59:3D:B5:4F:20:D7:09:6D:59:66:4E:1C:07"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.icbc.mobile.abroadARG.dev",
+    "sha256_cert_fingerprints":
+    ["A4:CF:BD:5C:48:B9:A2:05:02:E1:D2:28:E8:B7:3C:D9:D0:D2:9F:85:5B:14:DF:8A:40:5E:49:F5:54:9F:EA:65"]
+  }
+}]
